@@ -1,0 +1,170 @@
+body {
+  background-color: black;
+
+}
+
+/*nav styles*/
+.Tabs {
+  color: white;
+  font-size: 30px;
+  left: 40%;
+  font-family: Papyrus;
+  text-align: center;
+  float: left;
+  width: 45%;
+  background-color: black;
+  margin: 1px;
+  padding: 1px;
+  box-sizing: 50%;
+}
+
+
+/*Home page H1 style*/
+.Home1 {
+color: white;
+font-size: 50px;
+left: 40%;
+font-family: Papyrus;
+text-align: center;
+}
+
+/*Cast page H1 style*/
+.Cast1 {
+  color: white;
+  font-size: 50px;
+  left: 40%;
+}
+
+/*Home page container style*/
+.container {
+
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+background-color: black;
+height: 1200px;
+font-size: 30px;
+
+}
+
+.Home {
+width: 100%;
+margin: 5px;
+
+}
+
+.Synopsis {
+font-size: 20px;
+font-family: Papyrus;
+color: white;
+
+}
+
+.p1 {
+  font-size: 10px;
+color: white;
+}
+
+/*Footer style*/
+.Footer1 {
+  float: left;
+  background-color: black;
+  text-align: left;
+  color: white;
+  opacity: 1;
+  font-family: Papyrus;
+  font-size: 10px;
+  margin: 1px;
+  padding: 1px;
+  box-sizing: 50%;
+}
+
+
+/*Styling for Cast page - H1, cast member boxes, footer*/
+.Cast1 {
+  color: white;
+  font-size: 50px;
+  left: 40%;
+  font-family: Papyrus;
+  text-align: center;
+}
+
+.Kit {
+  float: left;
+  background-color: black;
+  text-align: center;
+  color: white;
+  opacity: 1;
+  font-family: Papyrus;
+  font-size: 15px;
+  margin: 1px;
+  padding: 1px;
+  box-sizing: 50%;
+  border: 3px solid white;
+  border-radius: 3px
+}
+
+.Kit1 {
+  width: 28%;
+  height: auto;
+  float: left;
+  margin: 10px
+}
+
+.Daenerys {
+  float: left;
+  background-color: black;
+  text-align: center;
+  color: white;
+  opacity: 1;
+  font-family: Papyrus;
+  font-size: 15px;
+  margin: 1px;
+  padding: 1px;
+  box-sizing: 50%;
+  border: 3px solid white;
+  border-radius: 3px
+}
+
+.EmiliaC1 {
+  width: 28%;
+  height: auto;
+  float: left;
+  margin: 10px
+}
+
+.Peter1 {
+  float: left;
+  background-color: black;
+  text-align: center;
+  color: white;
+  opacity: 1;
+  font-family: Papyrus;
+  font-size: 15px;
+  margin: 1px;
+  padding: 1px;
+  box-sizing: 50%;
+  border: 3px solid white;
+  border-radius: 3px
+
+}
+
+.PeterD1 {
+  width: 28%;
+  height: auto;
+  float: left;
+  margin: 10px
+}
+
+.Footer2 {
+  float: left;
+  background-color: black;
+  text-align: left;
+  color: white;
+  opacity: 1;
+  font-family: Papyrus;
+  font-size: 10px;
+  margin: 1px;
+  padding: 1px;
+  box-sizing: 50%;
+}
